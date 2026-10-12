@@ -2,7 +2,7 @@
 
 - **Nom** : Zin
 - **Prénom** : Salaheddine
-- **Groupe** : GX
+- **Groupe** : O1
 - **Titre du TP** : TP 02 - Scripts PHP, tableaux, formulaires GET/POST et GitHub
 - **Module** : Programmation Web 2 - Année universitaire 2026/2027
 - **Dépôt GitHub** : https://github.com/Salah-1w1/TP02-PHP-Salaheddine-Zin
