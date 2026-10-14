@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercice 10 - Formulaire GET</title>
+</head>
+<body>
+    <h1>Exercice 10 : formulaire GET</h1>
+
+    <form action="ex10_get.php" method="get">
+        <p>
+            <label for="nom">Nom :</label>
+            <input type="text" id="nom" name="nom">
+        </p>
+        <p>
+            <label for="prenom">Prénom :</label>
+            <input type="text" id="prenom" name="prenom">
+        </p>
+        <p>
+            <label for="groupe">Groupe :</label>
+            <select id="groupe" name="groupe">
+                <option value="">-- Choisir --</option>
+                <option value="G1">G1</option>
+                <option value="G2">G2</option>
+                <option value="G3">G3</option>
+                <option value="G4">G4</option>
+            </select>
+        </p>
+        <p><button type="submit">Envoyer</button></p>
+    </form>
+
+    <p><a href="index.php">Retour à l'accueil</a></p>
+</body>
+</html>
